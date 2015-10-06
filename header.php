@@ -48,35 +48,13 @@
         <li class="bold">
 
           <a href="../inicio" class="waves-effect waves-teal ">
-          <!-- <i class="fa fa-home fa-2x"></i> -->
-          <!-- <i class="material-icons">close</i> -->
-          <!-- <i class="material-icons left">store</i> --> Home</a>
+           Home</a>
         </li>
         <!-- <li class="collection-item bold"><div>Home<a href="#!" class="secondary-content"><i class="material-icons">store</i></a></div></li> -->
 
         <li class="bold">
-          <a href="getting-started.html" class="waves-effect waves-teal">About</a>
+          <a href="#!" class="waves-effect waves-teal">About</a>
         </li>
-        <!-- <li class="no-padding">
-          <ul class="collapsible collapsible-accordion">
-            <li class="bold"><a class="collapsible-header  waves-effect waves-teal">Projects</a>
-              <div class="collapsible-body">
-                <ul>
-                  <li><a href="#">All</a></li>
-                  <li><a href="#">Web</a></li>
-                  <li><a href="#">Mobile</a></li>
-                  <li><a href="#">Drawing</a></li>
-                  <li><a href="#">Printing</a></li>
-                
-                </ul>
-              </div>
-            </li>
-           
-          </ul>
-        </li> 
-        <li class="bold">
-          <a href="#" class="waves-effect waves-teal">Mobile</a>
-        </li>-->
         <li class="bold">
           <a href="../portfolio" class="waves-effect waves-teal">Portfolio</a>
         </li>
