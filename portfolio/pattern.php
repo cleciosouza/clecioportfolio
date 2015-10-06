@@ -51,29 +51,15 @@
               <i class="material-icons">stay_current_portrait</i>
               <a href="">
                 Tag do projeto
-              </a>
-              <!-- <i class="material-icons">close</i> -->
-            </div>
-
-            <!-- <iframe width="401" height="736" src="http://cleciosouza.com/clippingbmsbeta/" frameborder="0"></iframe> -->
-            <!--        Sidenav   -->
+              </a>            
+            </div>            
             <div id="right" class="section scrollspy">
-              <h2 class="header">Euvi App </h2>
-              <p class="caption">The navbar is fully contained by an HTML5 Nav tag. Inside a recommended container div, there are 2 main parts of the navbar. A logo or brand link, and the navigations links. You can align these links to the left or right.
+              <h2 class="header">Nome do projeto </h2>
+              <p class="caption">Detalhes do projeto
               </p>
-              <h4>Drag Out Menu</h4>
-              <p>This plugin includes several options for customizing the menu. See <a href="side-nav.html#options">Plugin Options</a> for details.</p>
-              <img class="mobile-image" src="../images/menu.gif">
+              <h4>Sub Titulo</h4>
+              <p>Mais detalhes </p>             
             </div>
-
-          <!--        Toast   -->
-          <div id="toast-mobile"class="section scrollspy">
-            <h2 class="header">Toast</h2>
-            <h4>Swipe to Dismiss</h4>
-            <p>On all devices, you can swipe to dismiss toasts.</p>
-            <img class="mobile-image" src="../images/toast.gif">
-
-          </div>
         </div>
       </div> 
     </div>
