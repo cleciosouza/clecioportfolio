@@ -1,8 +1,3 @@
-<?php 
-  $title = "Inicio | Porfolio Clécio";
-  $bodyId = "euvi";  
-?>
-
 <main>
   <div class="section no-pad-bot" id="index-banner">
     <div class="container">
@@ -18,7 +13,8 @@
         <div class="divider"></div>
         <br>
         <div class="row">
-          <?php include "euvi.php"; // conteúdo de DO PROJETO AQUI aqui ?> 
+          <?php include "euvi.php"; ?> 
+          <?php include "pattern.php"; ?> 
           <!-- < ?php include "job1.php"; // conteúdo de DO PROJETO AQUI aqui ?> 
           < ?php include "job2.php"; // conteúdo de DO PROJETO AQUI aqui ?>  -->
         </div> 

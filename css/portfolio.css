@@ -1,6 +1,10 @@
 .close {
 	color: #fff;
 }
+#pattern-banner {
+    background-image: url(../images/pattern.jpg);
+    background-position: center;
+}
 
 #euvi-banner .container {
     position: relative; }
@@ -26,3 +30,4 @@
     background-image: url(../images/euvi.jpg);
     background-position: center;
 }
+
