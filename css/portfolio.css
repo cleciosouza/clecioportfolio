@@ -1,10 +1,33 @@
 .close {
-	color: #fff;
+  color: #fff;
 }
 #pattern-banner {
     background-image: url(../images/pattern.jpg);
     background-position: center;
 }
+
+#pattern-banner .container {
+    position: relative; }
+  #pattern-banner .header {
+    color: #FFF; }
+  #pattern-banner h4 {
+    margin-bottom: 40px; }
+  #pattern-banner h1 {
+    margin-top: 16px; }
+
+@media only screen and (max-width : 992px) {
+  #pattern-banner h1 {
+    margin-top: 60px; }
+  #pattern-banner h4 {
+    margin-bottom: 15px; } }
+
+@media only screen and (max-width : 600px) {
+  #pattern-banner h4 {
+    margin-bottom: 0; } }
+
+
+
+
 
 #euvi-banner .container {
     position: relative; }
